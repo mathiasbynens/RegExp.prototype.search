@@ -1,6 +1,6 @@
 # ES6 `RegExp.prototype.search` polyfill [![Build status](https://travis-ci.org/mathiasbynens/RegExp.prototype.search.svg?branch=master)](https://travis-ci.org/mathiasbynens/RegExp.prototype.search) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/RegExp.prototype.search/master.svg)](https://coveralls.io/r/mathiasbynens/RegExp.prototype.search)
 
-An robust & optimized ES3-compatible polyfill for [the `RegExp.prototype.search` method in ECMAScript 6](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-regexp.prototype.search).
+A robust & optimized ES3-compatible polyfill for [the `RegExp.prototype.search` method in ECMAScript 6](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-regexp.prototype.search).
 
 ## Installation
 
