@@ -1,6 +1,6 @@
 {
 	"name": "regexp.prototype.search",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "A robust & optimized `RegExp.prototype.search` polyfill, based on the ECMAScript 6 specification.",
 	"homepage": "http://mths.be/regexp-prototype-search",
 	"main": "regexp-prototype-search.js",
